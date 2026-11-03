@@ -1,0 +1,11 @@
+   *.npy
+   *.npz
+   *.pt
+   *.pth
+   *.onnx
+   *.jpg
+   *.jpeg
+   cache/
+   stage*/
+   .ipynb_checkpoints/
+   __pycache__/
