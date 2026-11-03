@@ -1,4 +1,5 @@
 # Who Needs Dermoscopy? Missing-modality-robust skin lesion triage on MILK10k
+   [![DOI](https://zenodo.org/badge/1443793626.svg)](https://doi.org/10.5281/zenodo.23906066)
 
 Code for the paper *"Who Needs Dermoscopy? Missing-Modality-Robust Skin Lesion Triage with Skin-Tone-Aware Conformal Guarantees and Validated Explanations"* (Mosharof Hossain Dipo et al., American International University-Bangladesh, manuscript in preparation).
 
