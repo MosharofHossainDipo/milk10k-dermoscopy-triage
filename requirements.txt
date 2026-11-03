@@ -1,0 +1,18 @@
+# Tested on the Kaggle GPU image (Python 3.11-3.13, CUDA, T4) in October-November 2026
+torch>=2.2
+torchvision>=0.17
+transformers>=4.40
+timm>=0.9.16
+numpy
+pandas
+scipy
+scikit-learn
+pillow
+matplotlib
+tqdm
+# notebook 10 (deployment)
+onnx
+onnxruntime
+# notebook 12 (PanDerm baseline)
+gdown
+open_clip_torch

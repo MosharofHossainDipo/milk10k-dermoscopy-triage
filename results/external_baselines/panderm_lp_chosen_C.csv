@@ -1,0 +1,16 @@
+method,fold,C
+PanDerm-LP (D),0,0.01
+PanDerm-LP (C),0,1.0
+PanDerm-LP (C+D+M),0,1.0
+PanDerm-LP (D),1,0.01
+PanDerm-LP (C),1,0.01
+PanDerm-LP (C+D+M),1,0.1
+PanDerm-LP (D),2,0.1
+PanDerm-LP (C),2,0.1
+PanDerm-LP (C+D+M),2,0.1
+PanDerm-LP (D),3,0.01
+PanDerm-LP (C),3,1.0
+PanDerm-LP (C+D+M),3,1.0
+PanDerm-LP (D),4,1.0
+PanDerm-LP (C),4,1.0
+PanDerm-LP (C+D+M),4,0.1
